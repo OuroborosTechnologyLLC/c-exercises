@@ -8,4 +8,9 @@ what is already written.
 ## Formatting
 Each program is named after the Chapter and Section it is taken from.
 
-`ex-1-2.c` would come from chapter 1, section 2.
+`ex-1-2.c` would come from chapter 1, section 2. This section includes exercises
+1-3 and 1-4, but you'd need the book to know that.
+
+## Note
+Not all exercises are done here. For instance, exercise 1-5 is about `for`
+loops, and I found that unnecessary to write out.
